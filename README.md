@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&color=FFF&width=435&lines=Hi🤘🏻,+I'm+3LI+machi+ALI;Welcome+to+my+Github+😗+![Horreur--1](https://github.com/ali-azzaalami/ali-azzaalami/assets/72976715/7e8bb1ad-78ce-40d0-b729-82963d25071e)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&color=FFF&width=435&lines=Hi🤘🏻,+I'm+3LI+machi+ALI;Welcome+to+my+Github+😗" alt="Typing SVG" /></a>
  
 
   
