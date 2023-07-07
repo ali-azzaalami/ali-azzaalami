@@ -1,2 +1,5 @@
-<h1 align="center">Hi 👋, I'm 3li machi ali</h1>
-<h3 align="center">WELCOME TO 3LI'S GITHUB</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&color=ffffff&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+3LI;Welcome+to+my+Github+%F0%9F%A4%8D" alt="Typing SVG" /></a>
+  
+  
+ <!-- <img src=https://i.pinimg.com/originals/88/f9/03/88f9031a2b29022754494a10a63870da.gif />-->
